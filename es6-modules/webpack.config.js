@@ -1,6 +1,5 @@
-var path = require('path')
-var webpack = require('webpack')
-console.log(__dirname)
+var path = require('path');
+
 module.exports = {
 	context: __dirname,
   entry: './main.js',

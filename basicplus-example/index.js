@@ -1,5 +1,5 @@
-alert('I am now in index');
+console.log('I am now in index');
 
 require('./config.js');
 
-alert('I am back in index');
+console.log('I am back in index');

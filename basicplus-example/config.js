@@ -1,1 +1,1 @@
-alert('I am in config')
+console.log('I am in plus config')

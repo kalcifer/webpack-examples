@@ -1,3 +1,3 @@
 import config from './config.js';
 
-alert (config.title);
+console.log(config.title);
